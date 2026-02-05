@@ -1,19 +1,28 @@
-# Ritik Sawarkar
-**Computer Science & Engineering Student | Full-Stack Web Development Enthusiast**
+<h1 align="center">Ritik Sawarkar</h1>
+<h3 align="center">Computer Science & Engineering Student | Full-Stack Web Development</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritiksawarkar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## About Me
-I am a **Computer Science and Engineering student** with a strong interest in **full-stack web development**.  
-I focus on building clean, structured, and practical web applications while strengthening my fundamentals in frontend development, backend logic, and real-world project workflows.
 
-I actively use GitHub to maintain my academic projects, practice modern web technologies, and track my progress as a developer.
+I am a **Computer Science and Engineering student** with a strong interest in **full-stack web development**.  
+I focus on building **clean, structured, and practical web applications**, while strengthening my fundamentals in frontend development, backend logic, and real-world project workflows.
+
+I actively use GitHub to maintain my academic projects, practice modern web technologies, and track my growth as a developer.
 
 ---
 
 ## Technical Skills
 
-**Frontend**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend Development
 - HTML5  
 - CSS3  
 - JavaScript  
@@ -21,17 +30,22 @@ I actively use GitHub to maintain my academic projects, practice modern web tech
 - React.js (fundamentals)  
 - Framer Motion (basic animations)
 
-**Backend**
+</td>
+<td width="50%" valign="top">
+
+### Backend & Database
 - Node.js (core concepts)  
 - Express.js  
 - REST API fundamentals  
-- Socket.io (real-time communication)
-
-**Database**
+- Socket.io (real-time communication)  
 - MongoDB  
 - Mongoose (basics)
 
-**Tools & Platforms**
+</td>
+</tr>
+</table>
+
+### Tools & Platforms
 - Git & GitHub  
 - Visual Studio Code  
 - Figma (UI/UX design)  
@@ -41,11 +55,13 @@ I actively use GitHub to maintain my academic projects, practice modern web tech
 
 ## Projects
 
-### FinVerse – Digital Banking Web Platform (Academic Project)
+### FinVerse – Digital Banking Web Platform  
+**Academic Project**
+
 - Designed a secure and responsive banking dashboard interface  
 - Implemented authentication flows and core UI components  
 - Developed Digital KYC workflow at frontend and logic level  
-- Built stock market–related pages as part of the platform UI  
+- Built stock market-related pages as part of the platform UI  
 - Explored AI calling agent integration at a conceptual level  
 
 **Tech Stack:** MERN Stack, Tailwind CSS  
@@ -53,6 +69,7 @@ I actively use GitHub to maintain my academic projects, practice modern web tech
 ---
 
 ### EcoSwap – Sustainable Product Exchange Platform
+
 - Developed a platform for exchanging sustainable products  
 - Implemented user authentication and product listing features  
 - Integrated real-time chat using Socket.io  
@@ -63,6 +80,7 @@ I actively use GitHub to maintain my academic projects, practice modern web tech
 ---
 
 ### WhatsApp Web UI Clone
+
 - Built a structured and responsive UI clone  
 - Implemented chat switching and message handling at frontend level  
 - Focused on layout accuracy and component organization  
@@ -71,7 +89,9 @@ I actively use GitHub to maintain my academic projects, practice modern web tech
 
 ---
 
-### SkillMatch – Career Guidance & Portfolio Platform (Hackathon Project)
+### SkillMatch – Career Guidance & Portfolio Platform  
+**Hackathon Project**
+
 - Collaborated in a team-based hackathon environment  
 - Worked on a student-focused career guidance platform  
 - Contributed to frontend structure and overall project flow  
@@ -81,9 +101,10 @@ I actively use GitHub to maintain my academic projects, practice modern web tech
 ---
 
 ### Student Toolkit Website
-- Developed small utility tools for students  
-- Implemented features like word counter and case converter  
-- Designed to be simple, practical, and beginner-friendly  
+
+- Developed utility tools useful for students  
+- Implemented features such as word counter and case converter  
+- Designed the project to be simple, practical, and beginner-friendly  
 
 ---
 
@@ -103,4 +124,5 @@ I actively use GitHub to maintain my academic projects, practice modern web tech
 ---
 
 ## Career Objective
+
 To grow as a **professional full-stack web developer** by building scalable web applications, strengthening backend fundamentals, and following clean coding and UI/UX design principles.
