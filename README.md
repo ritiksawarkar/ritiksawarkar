@@ -1,11 +1,14 @@
-<h1 align="center">Ritik Sawarkar</h1>
-<h3 align="center">Computer Science & Engineering Student | Full-Stack Web Development</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1A1A1A&height=180&section=header&text=Ritik%20Sawarkar&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Web+Development+Enthusiast;Building+Clean+and+Scalable+Web+Applications" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ritiksawarkar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
----
 
 ## About Me
 
