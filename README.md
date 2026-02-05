@@ -17,12 +17,6 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-## Technical Skills
-
-<table>
-<tr>
 <td width="33%" valign="top">
 
 ### Frontend Development
@@ -46,6 +40,7 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 - Socket.io (real-time communication)  
 - MongoDB  
 - Mongoose  
+- Firebase (authentication & backend services)  
 
 </td>
 <td width="33%" valign="top">
@@ -53,6 +48,7 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 ### Other Tools & Technologies
 - Git  
 - GitHub  
+- GitHub Copilot  
 - Linux  
 - Docker (basics)  
 - Postman  
