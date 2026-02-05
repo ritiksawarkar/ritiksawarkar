@@ -23,32 +23,37 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 - HTML5  
 - CSS3  
 - JavaScript  
+- Bootstrap  
 - Tailwind CSS  
 - React.js (fundamentals)  
-- Framer Motion (basic animations)
+- Vite.js  
+- Three.js (basic understanding)  
+- Framer Motion  
 
 </td>
 <td width="50%" valign="top">
 
 ### Backend & Database
-- Node.js (core concepts)  
+- Node.js  
 - Express.js  
 - REST API fundamentals  
 - Socket.io (real-time communication)  
 - MongoDB  
-- Mongoose (basics)
+- Mongoose  
 
 </td>
 </tr>
 </table>
 
-### Tools & Platforms
-- Git & GitHub  
-- Visual Studio Code  
-- Figma (UI/UX design)  
+### Other Tools & Technologies
+- Git  
+- GitHub  
+- Linux  
+- Docker (basics)  
 - Postman  
-
----
+- n8n (workflow automation)  
+- Visual Studio Code  
+- Figma (UI/UX design)
 
 ## Projects
 
