@@ -19,6 +19,12 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 <tr>
 <td width="50%" valign="top">
 
+## Technical Skills
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
 ### Frontend Development
 - HTML5  
 - CSS3  
@@ -31,7 +37,7 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 - Framer Motion  
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Backend & Database
 - Node.js  
@@ -42,8 +48,7 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 - Mongoose  
 
 </td>
-</tr>
-</table>
+<td width="33%" valign="top">
 
 ### Other Tools & Technologies
 - Git  
@@ -54,6 +59,10 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 - n8n (workflow automation)  
 - Visual Studio Code  
 - Figma (UI/UX design)
+
+</td>
+</tr>
+</table>
 
 ## Projects
 
