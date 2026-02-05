@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1A1A1A&height=180&section=header&text=Ritik%20Sawarkar&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,50:00DFD8,100:7928CA&height=200&section=header&text=Ritik%20Sawarkar&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Web+Development+Enthusiast;Building+Clean+and+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=2800&pause=700&color=007CF0&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Web+Development+Enthusiast;Building+Clean+and+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritiksawarkar&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ritiksawarkar&label=Profile%20Views&color=007CF0&style=flat" />
 </p>
 
 ## About Me
