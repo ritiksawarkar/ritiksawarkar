@@ -6,18 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=2800&pause=700&color=007CF0&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Web+Development+Enthusiast;Building+Clean+and+Scalable+Web+Applications" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritiksawarkar&label=Profile%20Views&color=007CF0&style=flat" />
-</p>
-
 ## About Me
 
-I am a **Computer Science and Engineering student** with a strong interest in **full-stack web development**.  
-I focus on building **clean, structured, and practical web applications**, while strengthening my fundamentals in frontend development, backend logic, and real-world project workflows.
+I am a **Computer Science and Engineering student** with a focused interest in **full-stack web development**.  
+I enjoy building **clean, well-structured web applications** and improving my understanding of frontend design, backend logic, and real-world development workflows.
 
-I actively use GitHub to maintain my academic projects, practice modern web technologies, and track my growth as a developer.
-
----
+I use GitHub to document my projects, practice modern web technologies, and track my growth as a developer.
 
 ## Technical Skills
 
