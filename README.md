@@ -62,56 +62,163 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 
 ## Projects
 
-### FinVerse – Digital Banking Web Platform  
+### FinVerse – Digital Banking Web Platform
+
+<table>
+<tr>
+<td>
+
 **Academic Project**
 
-- Designed a secure and responsive banking dashboard interface  
-- Implemented authentication flows and core UI components  
-- Developed Digital KYC workflow at frontend and logic level  
-- Built stock market-related pages as part of the platform UI  
-- Explored AI calling agent integration at a conceptual level  
+- Designed a secure and responsive banking dashboard interface
+- Implemented authentication flows and core UI components
+- Developed Digital KYC workflow at frontend and logic level
+- Built stock market-related pages as part of the platform UI
+- Explored AI calling agent integration at a conceptual level
 
-**Tech Stack:** MERN Stack, Tailwind CSS  
+**Tech Stack:** MERN Stack, Tailwind CSS
+
+</td>
+<td align="right" valign="top">
+
+<a href="https://github.com/ritiksawarkar/FinVerse_Bank">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<a href="https://finverse-bank.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### EcoSwap – Sustainable Product Exchange Platform
 
-- Developed a platform for exchanging sustainable products  
-- Implemented user authentication and product listing features  
-- Integrated real-time chat using Socket.io  
-- Focused on clean UI and smooth user experience  
+<table>
+<tr>
+<td>
 
-**Tech Stack:** MERN Stack, Tailwind CSS, Socket.io  
+- Developed a platform for exchanging sustainable products
+- Implemented user authentication and product listing features
+- Integrated real-time chat using Socket.io
+- Focused on clean UI and smooth user experience
+
+**Tech Stack:** MERN Stack, Tailwind CSS, Socket.io
+
+</td>
+<td align="right" valign="top">
+
+<a href="YOUR_ECOSWAP_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<a href="YOUR_ECOSWAP_LIVE_URL">
+<img src="https://img.shields.io/badge/Live-Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### WhatsApp Web UI Clone
 
-- Built a structured and responsive UI clone  
-- Implemented chat switching and message handling at frontend level  
-- Focused on layout accuracy and component organization  
+<table>
+<tr>
+<td>
 
-**Tech Stack:** HTML, CSS, JavaScript  
+- Built a structured and responsive WhatsApp Web UI clone
+- Implemented chat switching and message handling at frontend level
+- Focused on layout accuracy and component organization
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+</td>
+<td align="right" valign="top">
+
+<a href="YOUR_WHATSAPP_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<a href="YOUR_WHATSAPP_LIVE_URL">
+<img src="https://img.shields.io/badge/Live-Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### SkillMatch – Career Guidance & Portfolio Platform  
+### SkillMatch – Career Guidance & Portfolio Platform
+
+<table>
+<tr>
+<td>
+
 **Hackathon Project**
 
-- Collaborated in a team-based hackathon environment  
-- Worked on a student-focused career guidance platform  
-- Contributed to frontend structure and overall project flow  
+- Collaborated in a team-based hackathon environment
+- Worked on a student-focused career guidance platform
+- Contributed to frontend structure and overall project flow
 
-**Domain:** Web Application, EdTech  
+**Domain:** Web Application, EdTech
+
+</td>
+<td align="right" valign="top">
+
+<a href="YOUR_SKILLMATCH_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<a href="YOUR_SKILLMATCH_LIVE_URL">
+<img src="https://img.shields.io/badge/Live-Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Student Toolkit Website
 
-- Developed utility tools useful for students  
-- Implemented features such as word counter and case converter  
-- Designed the project to be simple, practical, and beginner-friendly  
+<table>
+<tr>
+<td>
+
+- Developed utility tools useful for students
+- Implemented features such as word counter and case converter
+- Designed the project to be simple, practical, and beginner-friendly
+
+</td>
+<td align="right" valign="top">
+
+<a href="YOUR_STUDENT_TOOLKIT_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<a href="YOUR_STUDENT_TOOLKIT_LIVE_URL">
+<img src="https://img.shields.io/badge/Live-Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
