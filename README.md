@@ -62,13 +62,11 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 
 ## Projects
 
-### FinVerse – Digital Banking Web Platform
-<a href="https://github.com/ritiksawarkar/FinVerse_Bank">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://finverse-bank.vercel.app/">
-<img src="https://img.shields.io/badge/Live-Demo-2563EB?style=flat-square&logo=vercel&logoColor=white" />
-</a>
+<h3>
+  FinVerse – Digital Banking Web Platform
+  <a href="https://github.com/ritiksawarkar/FinVerse_Bank">[ GitHub ]</a>
+  <a href="https://finverse-bank.vercel.app/">[ Live Demo ]</a>
+</h3>
 
 **Academic Project**
 
