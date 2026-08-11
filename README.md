@@ -63,8 +63,12 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 ## Projects
 
 ### FinVerse – Digital Banking Web Platform
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ritiksawarkar/FinVerse_Bank)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://finverse-bank.vercel.app/)
+<a href="https://github.com/ritiksawarkar/FinVerse_Bank">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://finverse-bank.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-2563EB?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 
 **Academic Project**
 
@@ -75,31 +79,6 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 - Explored AI calling agent integration at a conceptual level
 
 **Tech Stack:** MERN Stack, Tailwind CSS
-
----
-
-### EcoSwap – Sustainable Product Exchange Platform
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_ECOSWAP_GITHUB_URL)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](YOUR_ECOSWAP_LIVE_URL)
-
-- Developed a platform for exchanging sustainable products
-- Implemented user authentication and product listing features
-- Integrated real-time chat using Socket.io
-- Focused on clean UI and smooth user experience
-
-**Tech Stack:** MERN Stack, Tailwind CSS, Socket.io
-
----
-
-### WhatsApp Web UI Clone
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_WHATSAPP_GITHUB_URL)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](YOUR_WHATSAPP_LIVE_URL)
-
-- Built a structured and responsive WhatsApp Web UI clone
-- Implemented chat switching and message handling at frontend level
-- Focused on layout accuracy and component organization
-
-**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
