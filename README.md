@@ -63,7 +63,7 @@ I use GitHub to document my projects, practice modern web technologies, and trac
 ## Projects
 
 <h3>
-  FinVerse – Digital Banking Web Platform
+  FinVerse – Digital Banking & Financial Services Platform
   <a href="https://github.com/ritiksawarkar/FinVerse_Bank">[ GitHub ]</a>
   <a href="https://finverse-bank.vercel.app/">[ Live Demo ]</a>
 </h3>
